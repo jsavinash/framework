@@ -1,4 +1,4 @@
-package com.spring_framework.dependency_injection.ci_with_collection_2;
+package com.spring_framework.dependency_injection.constructor_injection.ci_with_collection_2;
 
 public class Answer {
     private int id;

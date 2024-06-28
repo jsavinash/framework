@@ -4,7 +4,7 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
 
-    <bean id="question" class="com.spring_framework.dependency_injection.ci_with_collection.Question">
+    <bean id="question" class="com.spring_framework.dependency_injection.constructor_injection.ci_with_collection.Question">
         <constructor-arg value="111"></constructor-arg>
         <constructor-arg value="What is java?"></constructor-arg>
         <constructor-arg>

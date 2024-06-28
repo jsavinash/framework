@@ -4,12 +4,12 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
 
-    <bean id="address" class="com.spring_framework.dependency_injection.ci_dependent_object.Address">
+    <bean id="address" class="com.spring_framework.dependency_injection.constructor_injection.ci_dependent_object.Address">
         <constructor-arg value="ghaziabad"></constructor-arg>
         <constructor-arg value="UP"></constructor-arg>
         <constructor-arg value="India"></constructor-arg>
     </bean>
-    <bean id="employee" class="com.spring_framework.dependency_injection.ci_dependent_object.Employee">
+    <bean id="employee" class="com.spring_framework.dependency_injection.constructor_injection.ci_dependent_object.Employee">
         <constructor-arg value="12" type="int"></constructor-arg>
         <constructor-arg value="Sonoo"></constructor-arg>
         <constructor-arg>

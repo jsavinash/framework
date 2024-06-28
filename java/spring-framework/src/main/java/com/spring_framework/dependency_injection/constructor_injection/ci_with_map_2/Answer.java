@@ -1,4 +1,4 @@
-package com.spring_framework.dependency_injection.ci_with_map_2;
+package com.spring_framework.dependency_injection.constructor_injection.ci_with_map_2;
 
 import java.util.Date;
 

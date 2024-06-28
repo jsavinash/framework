@@ -1,4 +1,4 @@
-package com.spring_framework.dependency_injection.ci;
+package com.spring_framework.dependency_injection.constructor_injection;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

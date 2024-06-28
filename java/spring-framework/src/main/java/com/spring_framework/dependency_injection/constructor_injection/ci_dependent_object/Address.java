@@ -1,4 +1,4 @@
-package com.spring_framework.dependency_injection.ci_dependent_object;
+package com.spring_framework.dependency_injection.constructor_injection.ci_dependent_object;
 
 public class Address {
     private String city;

@@ -1,4 +1,4 @@
-package com.spring_framework.dependency_injection.ci_with_map;
+package com.spring_framework.dependency_injection.constructor_injection.ci_with_map;
 
 import java.util.Iterator;
 import java.util.Map;
